@@ -7,7 +7,7 @@
 }
 
 body {
-  background: #06101f;
-  color: #fff;
   font-family: var(--font-sans);
+  background-color: #f8fafc;
+  color: #0a0a0a;
 }
